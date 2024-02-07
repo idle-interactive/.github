@@ -1,4 +1,4 @@
-# Abydon is coding lifestyle, browser games, AI tools, & dev-ops stuff as a hobby @ [IdleInteractive](https://www.IdleInteractive.com)
+# We are coding lifestyle, browser games, AI tools, & dev-ops stuff as a hobby @ [IdleInteractive](https://www.IdleInteractive.com)
 
 This account is for related open sourced projects.
 
