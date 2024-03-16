@@ -6,7 +6,7 @@ We are not seeking donations/contributions at this time.
 
 Please refer to the contributing-to-my-projects and the licensing directories for the general terms and what not.
 
-Contributions and licensing info is available here: https://github.com/abydon-ii/abydon-ii
+Contributions and licensing info is available here: https://github.com/idle-interactive/.github
 
 # Public Project Status
 
